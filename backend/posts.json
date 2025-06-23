@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "text": "Bugün parka gittik!",
+    "image": "/resim/etkinlik.jpg",
+    "likes": 10,
+    "comments": ["Ne tatlı!", "Çok güzel bir gün olmuş"]
+  }
+]

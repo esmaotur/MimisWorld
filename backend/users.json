@@ -1,0 +1,23 @@
+[
+  {
+    "username": "esmaes",
+    "email": "esmaotur@gmail.com",
+    "password": "Esmamimi"
+  },
+  {
+    "username": "cigdem",
+    "email": "cigdem@gmail.com",
+    "password": "cigdem"
+  },
+  {
+    "username": "çicek",
+    "email": "çicek@gmail.com",
+    "password": "çicek15",
+    "profile": {
+      "type": "Kedi",
+      "name": "çicek",
+      "image": "/resim/profil.jpg",
+      "about": ""
+    }
+  }
+]
