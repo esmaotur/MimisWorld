@@ -52,8 +52,4 @@ node server.js
 ```
 Backend sunucusu, `http://127.0.0.1:5000` adresinde çalışacaktır. Yüklenen görseller `uploads` klasöründe barındırılır.
 
-## 📸 Ekran Görüntüleri
-Proje arayüzünden örnek ekran görüntülerini ve gif'leri buraya ekleyerek güncelleyebilirsiniz.
-
----
 Mimi'nin dünyasına hoş geldiniz! Evcil hayvanlarınızla olan anılarınızı ölümsüzleştirmeye hazırsınız. 😺🐶
